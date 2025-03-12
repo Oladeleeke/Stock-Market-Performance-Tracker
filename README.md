@@ -2,7 +2,13 @@
 I built a Stock Market Performance Tracker to analyze and compare the historical performance of Renewable Energy vs. Oil Stocks 
 Introduction/Overview
 
-I built a Stock Market Performance Tracker to analyze and compare the historical performance of Renewable Energy vs. Oil Stocks using SQL, Python (pandas, yfinance), and Azure Data Studio. The dataset includes price trends and trading volumes of major companies like Tesla (TSLA), ExxonMobil (XOM), BP, Chevron (CVX), Enphase Energy (ENPH), and NextEra Energy (NEE).
+I built a Stock Market Performance Tracker to analyze and compare the historical performance of Renewable Energy vs. Oil Stocks using SQL, Python (pandas, yfinance), and Azure Data Studio. The dataset includes price trends and trading volumes of major companies like:
+Tesla (TSLA), 
+ExxonMobil (XOM), 
+BP, 
+Chevron (CVX),
+Enphase Energy (ENPH), 
+NextEra Energy (NEE).
 
 Key Steps & Technologies Used:
 Data Extraction: Fetched stock data from Yahoo Finance using yfinance in Python
